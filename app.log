@@ -1,0 +1,249 @@
+2025-02-22 21:38:16 - ERROR - Database connection error: (2013, 'Lost connection to MySQL server during query ([WinError 10054] An existing connection was forcibly closed by the remote host)')
+2025-02-22 21:41:49 - ERROR - Database connection error: (2013, 'Lost connection to MySQL server during query ([WinError 10054] An existing connection was forcibly closed by the remote host)')
+2025-02-23 07:04:57 - ERROR - Database connection error: (2013, 'Lost connection to MySQL server during query ([WinError 10054] An existing connection was forcibly closed by the remote host)')
+2025-02-23 07:27:50 - INFO - Database connection established successfully.
+2025-02-23 07:38:19 - INFO - Database connection established successfully.
+2025-02-23 07:38:19 - INFO - Table `Retail_Market_Sales` created successfully in MySQL.
+2025-02-23 16:58:32 - INFO - Postgres db connection established successfully.
+2025-02-23 16:58:32 - INFO - Postgres db connection established successfully.
+2025-02-23 16:58:32 - ERROR - Error creating table: syntax error at or near "Varchar"
+LINE 4:                      Customer Name Varchar(50),
+                                           ^
+
+2025-02-23 16:58:32 - INFO - Postgres db connection established successfully.
+2025-02-23 16:58:32 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 16:58:32 - INFO - Postgres db connection established successfully.
+2025-02-23 16:58:32 - INFO - Executed __insert_batch_data in 0.1381 seconds
+2025-02-23 16:58:32 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 16:58:32 - INFO - Executed __insert_batch_data in 0.1265 seconds
+2025-02-23 16:58:32 - INFO - Executed insert_data_multithreaded in 0.1782 seconds
+2025-02-23 16:59:58 - INFO - Postgres db connection established successfully.
+2025-02-23 16:59:58 - INFO - Postgres db connection established successfully.
+2025-02-23 16:59:58 - ERROR - Error creating table: syntax error at or near ")"
+LINE 9:                  )
+                         ^
+
+2025-02-23 16:59:58 - INFO - Postgres db connection established successfully.
+2025-02-23 16:59:58 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 16:59:58 - INFO - Postgres db connection established successfully.
+2025-02-23 16:59:58 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 17:06:51 - INFO - Postgres db connection established successfully.
+2025-02-23 17:06:51 - INFO - Postgres db connection established successfully.
+2025-02-23 17:06:51 - INFO - Table `Bills` created successfully in Postgres.
+2025-02-23 17:06:52 - INFO - Postgres db connection established successfully.
+2025-02-23 17:06:52 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 17:06:52 - INFO - Postgres db connection established successfully.
+2025-02-23 17:06:52 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 17:46:16 - INFO - Postgres db connection established successfully.
+2025-02-23 17:46:16 - INFO - Postgres db connection established successfully.
+2025-02-23 17:46:16 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 17:46:16 - INFO - Postgres db connection established successfully.
+2025-02-23 17:46:16 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 17:46:16 - INFO - Postgres db connection established successfully.
+2025-02-23 17:46:16 - ERROR - Error inserting batch: tuple index out of range
+2025-02-23 17:47:17 - INFO - Postgres db connection established successfully.
+2025-02-23 17:47:17 - INFO - Postgres db connection established successfully.
+2025-02-23 17:47:17 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 17:47:17 - INFO - Postgres db connection established successfully.
+2025-02-23 17:47:17 - INFO - Inserted batch of 0 records successfully.
+2025-02-23 17:47:17 - INFO - Postgres db connection established successfully.
+2025-02-23 17:47:17 - ERROR - Error inserting batch: column "customer" of relation "bills" does not exist
+LINE 3:             (Customer, Product, Quantity, MRP, Date) VALUES ...
+                     ^
+
+2025-02-23 17:49:52 - INFO - Postgres db connection established successfully.
+2025-02-23 17:49:52 - INFO - Postgres db connection established successfully.
+2025-02-23 17:49:52 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 17:49:52 - INFO - Postgres db connection established successfully.
+2025-02-23 17:49:52 - INFO - Postgres db connection established successfully.
+2025-02-23 17:49:52 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 17:49:52 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 17:54:33 - INFO - Postgres db connection established successfully.
+2025-02-23 17:54:33 - INFO - Postgres db connection established successfully.
+2025-02-23 17:54:33 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 17:54:34 - INFO - Postgres db connection established successfully.
+2025-02-23 17:54:34 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 17:54:34 - INFO - Postgres db connection established successfully.
+2025-02-23 17:54:34 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 17:56:32 - INFO - Postgres db connection established successfully.
+2025-02-23 17:56:32 - INFO - Postgres db connection established successfully.
+2025-02-23 17:56:32 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 17:56:32 - INFO - Postgres db connection established successfully.
+2025-02-23 17:56:32 - INFO - Postgres db connection established successfully.
+2025-02-23 17:56:32 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 17:56:32 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 18:50:44 - INFO - Postgres db connection established successfully.
+2025-02-23 18:50:44 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 18:50:44 - INFO - Postgres db connection established successfully.
+2025-02-23 18:50:44 - INFO - Inserted batch of 0 records successfully.
+2025-02-23 18:50:44 - INFO - Postgres db connection established successfully.
+2025-02-23 18:50:44 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 18:50:44 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 18:57:46 - INFO - Postgres db connection established successfully.
+2025-02-23 18:57:46 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 18:57:46 - INFO - Postgres db connection established successfully.
+2025-02-23 18:57:46 - INFO - Inserted batch of 0 records successfully.
+2025-02-23 18:57:46 - INFO - Postgres db connection established successfully.
+2025-02-23 18:57:46 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 18:57:46 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 19:34:52 - INFO - Postgres db connection established successfully.
+2025-02-23 19:34:52 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 19:34:52 - INFO - Postgres db connection established successfully.
+2025-02-23 19:34:52 - INFO - Inserted batch of 2 records successfully.
+2025-02-23 19:34:52 - INFO - Postgres db connection established successfully.
+2025-02-23 19:34:52 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 19:34:52 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 19:36:22 - INFO - Postgres db connection established successfully.
+2025-02-23 19:36:22 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 19:36:22 - INFO - Postgres db connection established successfully.
+2025-02-23 19:36:22 - INFO - Inserted batch of 0 records successfully.
+2025-02-23 19:36:22 - INFO - Postgres db connection established successfully.
+2025-02-23 19:36:22 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 19:36:22 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 19:37:12 - INFO - Postgres db connection established successfully.
+2025-02-23 19:37:12 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 19:37:12 - INFO - Postgres db connection established successfully.
+2025-02-23 19:37:12 - INFO - Postgres db connection established successfully.
+2025-02-23 19:37:12 - INFO - Inserted batch of 0 records successfully.
+2025-02-23 19:37:12 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 19:37:12 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 19:56:28 - INFO - Postgres db connection established successfully.
+2025-02-23 19:56:28 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 19:56:28 - INFO - Postgres db connection established successfully.
+2025-02-23 19:56:28 - INFO - Postgres db connection established successfully.
+2025-02-23 19:56:28 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 19:56:28 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 19:56:28 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 20:16:14 - INFO - Postgres db connection established successfully.
+2025-02-23 20:16:14 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 20:16:14 - INFO - Postgres db connection established successfully.
+2025-02-23 20:16:14 - INFO - Postgres db connection established successfully.
+2025-02-23 20:16:14 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 20:16:14 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 20:16:14 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 21:05:23 - INFO - Postgres db connection established successfully.
+2025-02-23 21:05:23 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 21:05:23 - INFO - Postgres db connection established successfully.
+2025-02-23 21:05:23 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 21:05:23 - INFO - Postgres db connection established successfully.
+2025-02-23 21:05:23 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 21:05:23 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 22:03:15 - INFO - Postgres db connection established successfully.
+2025-02-23 22:03:15 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 22:03:15 - INFO - Postgres db connection established successfully.
+2025-02-23 22:03:15 - INFO - Postgres db connection established successfully.
+2025-02-23 22:03:15 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 22:03:15 - ERROR - Error inserting batch: column "date" is of type timestamp without time zone but expression is of type integer
+LINE 3: ...r_Name, Product, MRP, Quantity, Date) VALUES (2, 2, 2, 2, 2)
+                                                                     ^
+HINT:  You will need to rewrite or cast the expression.
+
+2025-02-23 22:03:15 - INFO - ----------- Program Completed ---------------
+
+2025-02-23 22:25:07 - INFO - Postgres db connection established successfully.
+2025-02-23 22:25:07 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-23 22:25:07 - INFO - Postgres db connection established successfully.
+2025-02-23 22:25:07 - INFO - Postgres db connection established successfully.
+2025-02-23 22:25:07 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 22:25:07 - INFO - Inserted batch of 1 records successfully.
+2025-02-23 22:25:07 - INFO - ----------- Program Completed ---------------
+
+2025-02-24 10:49:06 - INFO - Postgres db connection established successfully.
+2025-02-24 10:49:06 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-24 10:49:06 - INFO - Postgres db connection established successfully.
+2025-02-24 10:49:06 - INFO - Postgres db connection established successfully.
+2025-02-24 10:49:06 - INFO - Inserted batch of 1 records successfully.
+2025-02-24 10:49:06 - INFO - Inserted batch of 1 records successfully.
+2025-02-24 10:49:06 - INFO - ----------- Program Completed ---------------
+
+2025-02-24 10:59:23 - INFO - Postgres db connection established successfully.
+2025-02-24 10:59:23 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-24 10:59:23 - INFO - Postgres db connection established successfully.
+2025-02-24 10:59:23 - INFO - Inserted batch of 0 records successfully.
+2025-02-24 10:59:23 - INFO - Postgres db connection established successfully.
+2025-02-24 10:59:23 - INFO - Inserted batch of 1 records successfully.
+2025-02-24 10:59:23 - INFO - ----------- Program Completed ---------------
+
+2025-02-24 11:11:04 - INFO - Postgres db connection established successfully.
+2025-02-24 11:11:04 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-24 11:11:04 - INFO - Postgres db connection established successfully.
+2025-02-24 11:11:04 - INFO - Inserted batch of 0 records successfully.
+2025-02-24 11:11:04 - INFO - Postgres db connection established successfully.
+2025-02-24 11:11:04 - INFO - Inserted batch of 1 records successfully.
+2025-02-24 11:11:04 - INFO - ----------- Program Completed ---------------
+
+2025-02-24 14:53:43 - INFO - Postgres db connection established successfully.
+2025-02-24 14:53:43 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-24 14:53:43 - INFO - Postgres db connection established successfully.
+2025-02-24 14:53:43 - INFO - Postgres db connection established successfully.
+2025-02-24 14:53:43 - INFO - Inserted batch of 1 records successfully.
+2025-02-24 14:53:43 - INFO - Inserted batch of 1 records successfully.
+2025-02-24 14:53:43 - INFO - ----------- Program Completed ---------------
+
+2025-02-25 14:11:01 - INFO - Postgres db connection established successfully.
+2025-02-25 14:11:01 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-25 14:11:01 - INFO - Postgres db connection established successfully.
+2025-02-25 14:11:01 - INFO - Inserted batch of 0 records successfully.
+2025-02-25 14:11:01 - INFO - Postgres db connection established successfully.
+2025-02-25 14:11:01 - INFO - Inserted batch of 1 records successfully.
+2025-02-25 14:11:01 - INFO - ----------- Program Completed ---------------
+
+2025-02-25 14:15:29 - INFO - Postgres db connection established successfully.
+2025-02-25 14:15:29 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-25 14:15:29 - INFO - Postgres db connection established successfully.
+2025-02-25 14:15:29 - INFO - Postgres db connection established successfully.
+2025-02-25 14:15:29 - INFO - Inserted batch of 1 records successfully.
+2025-02-25 14:15:29 - INFO - Inserted batch of 1 records successfully.
+2025-02-25 14:15:29 - INFO - ----------- Program Completed ---------------
+
+2025-02-25 15:10:06 - INFO - Postgres db connection established successfully.
+2025-02-25 15:10:06 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-25 15:10:06 - INFO - Postgres db connection established successfully.
+2025-02-25 15:10:06 - INFO - Inserted batch of 0 records successfully.
+2025-02-25 15:10:06 - INFO - Postgres db connection established successfully.
+2025-02-25 15:10:06 - INFO - Inserted batch of 1 records successfully.
+2025-02-25 15:10:06 - INFO - ----------- Program Completed ---------------
+
+2025-02-26 11:43:50 - INFO - Postgres db connection established successfully.
+2025-02-26 11:43:50 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-26 11:43:51 - INFO - Postgres db connection established successfully.
+2025-02-26 11:43:51 - INFO - Inserted batch of 0 records successfully.
+2025-02-26 11:43:51 - INFO - Postgres db connection established successfully.
+2025-02-26 11:43:51 - INFO - Inserted batch of 1 records successfully.
+2025-02-26 11:43:51 - INFO - ----------- Program Completed ---------------
+
+2025-02-26 11:44:44 - INFO - Postgres db connection established successfully.
+2025-02-26 11:44:44 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-26 11:44:44 - INFO - Postgres db connection established successfully.
+2025-02-26 11:44:44 - INFO - Inserted batch of 0 records successfully.
+2025-02-26 11:44:44 - INFO - Postgres db connection established successfully.
+2025-02-26 11:44:44 - INFO - Inserted batch of 0 records successfully.
+2025-02-26 11:44:44 - INFO - ----------- Program Completed ---------------
+
+2025-02-26 11:52:07 - INFO - Postgres db connection established successfully.
+2025-02-26 11:52:07 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-26 11:52:07 - INFO - Postgres db connection established successfully.
+2025-02-26 11:52:07 - INFO - Inserted batch of 0 records successfully.
+2025-02-26 11:52:07 - INFO - Postgres db connection established successfully.
+2025-02-26 11:52:07 - INFO - Inserted batch of 1 records successfully.
+2025-02-26 11:52:07 - INFO - ----------- Program Completed ---------------
+
+2025-02-26 12:03:15 - INFO - Postgres db connection established successfully.
+2025-02-26 12:03:15 - INFO - Table ``Bills`` created successfully in Postgres.
+2025-02-26 12:03:15 - INFO - Postgres db connection established successfully.
+2025-02-26 12:03:15 - INFO - Postgres db connection established successfully.
+2025-02-26 12:03:15 - INFO - Inserted batch of 1 records successfully.
+2025-02-26 12:03:15 - INFO - Inserted batch of 1 records successfully.
+2025-02-26 12:03:15 - INFO - ----------- Program Completed ---------------
+
+2025-02-26 12:15:26 - ERROR - Database connection error: invalid port number: "0"
+
+2025-02-26 12:15:26 - ERROR - Error creating table: 'NoneType' object has no attribute 'cursor'
